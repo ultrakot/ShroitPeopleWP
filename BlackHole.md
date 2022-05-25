@@ -6,3 +6,5 @@ We've got an open connection to the satellite.
 
 It sent us this encoded message. Decode it and send it back to get the flag.
 ____
+
+the team figured out that every time 
