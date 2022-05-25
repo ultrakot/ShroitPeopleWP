@@ -1,5 +1,5 @@
-##Crypto Category Placeholder Name, 111 points
-###challange called black hole
+Crypto Category Placeholder Name, 111 points
+challange called black hole
 We found a satellite but we can't speak its language. It changes its encryption encoding every time we open a connection...
 
 We've got an open connection to the satellite.
